@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "duckdb",
+    "oncran": true
+  }
+]
