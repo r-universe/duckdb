@@ -5,3 +5,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
+[submodule "duckdb.1.4"]
+	path = duckdb.1.4
+	url = https://github.com/duckdb/duckdb-r
+	branch = v1.4-andium
