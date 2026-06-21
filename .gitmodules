@@ -20,4 +20,4 @@
 [submodule "duckdb.dev"]
 	path = duckdb.dev
 	url = https://github.com/krlmlr/duckdb-r
-	branch = main-dev
+	branch = main-green
