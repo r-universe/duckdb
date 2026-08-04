@@ -12,11 +12,11 @@
 [submodule "duckdb.1.4.dev"]
 	path = duckdb.1.4.dev
 	url = https://github.com/krlmlr/duckdb-r
-	branch = v1.4-andium-dev
+	branch = v1.4-andium-green
 [submodule "duckdb.1.5.dev"]
 	path = duckdb.1.5.dev
 	url = https://github.com/krlmlr/duckdb-r
-	branch = v1.5-variegata-dev
+	branch = v1.5-variegata-green
 [submodule "duckdb.dev"]
 	path = duckdb.dev
 	url = https://github.com/krlmlr/duckdb-r
